@@ -38,8 +38,6 @@ public class ComputeAndInterpretBMI {
             System.out.println("Obese");
 
 
-
-
     }
 
 
